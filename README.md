@@ -1,6 +1,6 @@
 # About Me:
 
-🌱 I'm currently learning App dvelopment, Genrative AI, and DSA (with C++)
+🌱 I'm currently learning Machine learning, Genrative AI, and DSA (with Java)
 
 🔧 I'm looking for help with open source contributions
 

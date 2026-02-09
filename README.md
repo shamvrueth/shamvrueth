@@ -36,15 +36,9 @@
 
 ## 📊 GitHub Stats:
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamvrueth&show_icons=true&theme=dark)](https://github.com/shamvrueth)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shamvrueth&theme=nightowl&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamvrueth&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shamvrueth&theme=dark&hide_border=true)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shamvrueth&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-contributor-stats.vercel.app/api?username=shamvrueth&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ## 👁️ Profile Views
 

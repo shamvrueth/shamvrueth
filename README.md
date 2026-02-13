@@ -38,7 +38,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shamvrueth&theme=nightowl&hide_border=true)
 
-![](https://github-contributor-stats.vercel.app/api?username=shamvrueth&limit=5&theme=nightowl&combine_all_yearly_contributions=true&hide_border=true)
 
 ## 👁️ Profile Views
 

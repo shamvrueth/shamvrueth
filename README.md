@@ -42,3 +42,11 @@
 ## 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shamvrueth&color=blue)
+
+---
+
+## 🌐 Portfolio
+
+Check out my portfolio for a detailed look at my projects, experience, skills, and achievements.
+
+🌍 **https://shamvrueth-portfolio.vercel.app/**
